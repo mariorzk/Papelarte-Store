@@ -420,9 +420,6 @@ main {
 /* Media Query de responsavidade do Footer */
 
 @media (max-width: 800px) {
-    .logo-footer {
-        margin-left: 10rem;
-    }
 
     .footer-content {
         display: inline;
